@@ -23,7 +23,7 @@
 1. Faça um clone desse repositório;
 2. Entre na pasta `cd mytodos`;
 3. Rode `npm` para instalar as dependências;
-4. Execute `expo init` no seu terminal para inicializar o projeto;
+4. Execute `expo start` no seu terminal para inicializar o projeto;
 
 ---
 
